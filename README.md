@@ -1,2 +1,2 @@
 # TestGitHub
-REpositorio de prueba
+Repositorio de prueba
